@@ -7,7 +7,8 @@ An interactive, two-story house walkthrough reconstructed from supplied floor-pl
 Open `index.html` in a modern browser with WebGL support and internet access. No installation, database, or API keys are required. Three.js and material textures load from a CDN.
 
 - **Walk inside:** drag to look; use WASD, arrow keys, or the on-screen movement buttons to move. The staircase connects both floors.
-- **Dollhouse:** drag to orbit and scroll to zoom.
+- **Dollhouse:** drag to orbit. Pinch with two fingers, scroll, or use the Zoom buttons to zoom.
+- **Mobile zoom:** spread two fingers to zoom in; bring them together to zoom out. In Walk mode, this changes the field of view. The Zoom + / Zoom − buttons work in both modes.
 - **Floor / Go to:** switch levels or jump to a room.
 - **Walls / Furniture:** show or hide either independently. Walls display at full height when enabled.
 - **Daylight:** compare natural daylight, late-afternoon light, and overcast light.
